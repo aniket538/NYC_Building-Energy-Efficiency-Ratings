@@ -15,7 +15,6 @@ Energy efficiency in buildings is critical for sustainability and reducing envir
 ## Repository Contents
 
 - `av-nyc-building-energy-efficiency-ratings.ipynb`: Jupyter notebook with full analysis, data exploration, and visualizations.
-- (Add other files/folders if any, e.g., data, scripts)
 
 ## How to Use
 
